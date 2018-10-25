@@ -6,4 +6,4 @@ Hier wollen wir unser *tolles* Metadatenprojekt durchführen.
 
 1. Monat: Brainstorm
 2. Monat: Vorbereitung
-3. Monat: 
+
